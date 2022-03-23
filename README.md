@@ -9,7 +9,7 @@
 
 # 输出apk文件的大小:
   * 单个平台为 16MB
-  * 全平台 arm、arm64、x86、x86_64 为 62MB
+  * 全平台 arm、arm64、x86、x86_64 合集为 62MB
 
 # 参考项目:
    * https://github.com/croixbleueqc/qt5-android-builder
